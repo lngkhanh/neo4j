@@ -1,12 +1,12 @@
-Danh Sách thành viên Nhóm:
+- Danh Sách thành viên Nhóm:
 	1. Lê Ngoc Khánh - 12015851 
 	2. Lý Huỳnh Duy Bảo - 12016801
 	3. Phạm Thành Thảo - 12009411
-Lớp: DHTH8C
-Môn: Chuyên Đề Mạng
-Đề Tài: NEO4J 
-GVHD: ThS. Đặng Thanh Bình
+- Lớp: DHTH8C
+- Môn: Chuyên Đề Mạng
+- Đề Tài: NEO4J 
+- GVHD: ThS. Đặng Thanh Bình
 
-Thời gian thực hiện: 20/11/2015
+- Thời gian thực hiện: 20/11/2015
 
 
