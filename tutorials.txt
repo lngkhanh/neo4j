@@ -1,0 +1,10 @@
+
+Chào Các bạn.
+
+Mình xin đại diện nhóm trình bày nội dung về NEO4j
+
++ Nội Dung chính bao gồm 3 phần:
+	P1. Giới thiệu tổng quan về NEO4J
+	P2. Triển khai hệ thống NEO4J trên linux (Ubuntu 14.04 LTS)
+	P3. Quản trị/Truy xuất cơ sở dữ liệu trên NEO4J
+
